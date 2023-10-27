@@ -3,13 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 A continuación, se describe el tema principal del componente formativo Valoración de riesgos asociados a factores ambientales, proceso crucial para proteger el entorno y la salud pública. Este proceso analiza las amenazas potenciales, como contaminación del aire, cambios climáticos extremos y degradación de ecosistemas, identificando sus consecuencias en la sociedad y la naturaleza. Evaluando la probabilidad de eventos adversos, se pueden implementar medidas preventivas y de mitigación. Asimismo, permite planificar de manera sostenible, evitando inversiones riesgosas en zonas vulnerables. La sensibilización acerca de estos riesgos fomenta la responsabilidad individual y colectiva hacia un enfoque más consciente del medio ambiente, asegurando un futuro más seguro y saludable.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se describen los principales temas del componente formativo tales como: la calificación de riesgos, el concepto de bioseguridad y la valoración de los riesgos.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
