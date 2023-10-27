@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Determinación y calificación de riesgosTitulo de primer nivel
+      h1 Determinación y calificación de riesgos
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.jpg')})`}"
@@ -36,7 +36,7 @@
             img(src='@/assets/curso/temas/tema1/3.svg' alt='En la figura 1 se muestran los modelos que se generan por la simulación de daños ambientales dependiendo de la estructura química de la sustancia, el coeficiente de partición y las reglamentaciones ambientales.')
 
     .row.justify-content-center 
-      .col-8.movil
+      .col-12.movil
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
           span #[em Insumos de modelos]
@@ -56,7 +56,7 @@
             img(src='@/assets/curso/temas/tema1/5.svg' alt='En la figura 2 se muestran los resultados de los posibles daños ambientales según el punto de fusión, punto de ebullición, propiedades, presión de vapor y solubilidad del agua.')
 
     .row.justify-content-center 
-      .col-8.movil
+      .col-12.movil
         .titulo-sexto.color-acento-contenido
           h5 Figura 2
           span #[em Resultados de los modelos para la evaluación de riesgos ambientales]
@@ -84,7 +84,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/8.svg')
     
-    p.mt-5.mb-5(data-aos="fade-left") La fórmula se utiliza para estimar el riesgo en función de la probabilidad, la frecuencia y la gravedad de las consecuencias. Esta fórmula es una herramienta común en la evaluación de riesgos ambientales y se utiliza para cuantificar la magnitud del riesgo asociado a un escenario o evento específico.
+    p.mb-5(data-aos="fade-left") La fórmula se utiliza para estimar el riesgo en función de la probabilidad, la frecuencia y la gravedad de las consecuencias. Esta fórmula es una herramienta común en la evaluación de riesgos ambientales y se utiliza para cuantificar la magnitud del riesgo asociado a un escenario o evento específico.
 
     .row.justify-content-center
       .col-lg-10.col-12
