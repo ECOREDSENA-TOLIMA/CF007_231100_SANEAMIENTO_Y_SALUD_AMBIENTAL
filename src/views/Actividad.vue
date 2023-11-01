@@ -10,8 +10,8 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Riesgos con implicaciones ambientales.
-        p.mb-4 #[b Objetivo] Identificar los distintos riesgos que se asocian a los factores ambientales por medio de preguntas encaminadas a relacionar diferentes conceptos y herramientas útiles a nivel profesional y laboral.
+          h2 Riesgos con implicaciones ambientales
+        p.mb-4 #[b Objetivo:] Identificar los distintos riesgos que se asocian a los factores ambientales por medio de preguntas encaminadas a relacionar diferentes conceptos y herramientas útiles a nivel profesional y laboral.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

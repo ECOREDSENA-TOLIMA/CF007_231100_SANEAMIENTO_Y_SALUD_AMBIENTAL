@@ -29,7 +29,7 @@
     .row.justify-content-center.mt-5
       .col-8.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1
+          h5 Figura 1.
           span #[em Insumos de modelos]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -38,7 +38,7 @@
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1
+          h5 Figura 1.
           span #[em Insumos de modelos]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -49,7 +49,7 @@
     .row.justify-content-center.mt-5
       .col-8.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
+          h5 Figura 2.
           span #[em Resultados de los modelos para la evaluación de riesgos ambientales]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -58,7 +58,7 @@
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
+          h5 Figura 2.
           span #[em Resultados de los modelos para la evaluación de riesgos ambientales]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -79,7 +79,7 @@
         .row.justify-content-center
           .col-lg-8.col-md-10.col-12
             .titulo-sexto.color-acento-contenido
-              h5 Figura 3
+              h5 Figura 3.
               span #[em Fórmula del riesgo para estimar consecuencias]
             figure
               img(src='@/assets/curso/temas/tema1/8.svg')
@@ -125,7 +125,7 @@
     .row.justify-content-center.mt-5
       .col-8.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4
+          h5 Figura 4.
           span #[i Enfoques de probabilidad]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -134,7 +134,7 @@
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4
+          h5 Figura 4.
           span #[i Enfoques de probabilidad]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -145,7 +145,7 @@
     .row.justify-content-center 
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 1
+          h5 Tabla 1.
           span #[i Probabilidad/frecuencia]
         .tabla-a.mb-5 
           table
@@ -156,32 +156,32 @@
                 th Valor
             tbody
               tr
-                td Muy probable
-                td < Una vez al mes
-                td 5
+                td Muy probable.
+                td < Una vez al mes.
+                td 5.
               tr
-                td Altamente probable
-                td < Una vez al año y < Una vez al mes
-                td 4
+                td Altamente probable.
+                td < Una vez al año y < Una vez al mes.
+                td 4.
               tr
-                td Probable
-                td < Una vez cada 10 años y < Una vez al año
-                td 3
+                td Probable.
+                td < Una vez cada 10 años y < Una vez al año.
+                td 3.
               tr
-                td Posible
-                td < Una vez cada 50 años y < Una vez cada 10 años
-                td 2
+                td Posible.
+                td < Una vez cada 50 años y < Una vez cada 10 años.
+                td 2.
               tr
-                td Improbable
-                td < Una vez cada 50 años
-                td 1
+                td Improbable.
+                td < Una vez cada 50 años.
+                td 1.
 
     p.mb-5(data-aos="fade-left") Luego de identificar y evaluar los diferentes escenarios relacionados con riesgos ambientales, es fundamental llevar un registro adecuado de los resultados obtenidos. Esta documentación es esencial para una gestión efectiva de los riesgos y la toma de decisiones informadas. Estos datos proporcionan una visión clara de la magnitud de los riesgos y ayudan a priorizar las acciones de mitigación y control necesarias para proteger el medio ambiente y la salud pública. Además, este registro facilita la comunicación con las partes interesadas y las autoridades reguladoras, lo que contribuye a una gestión transparente y responsable de los riesgos ambientales. A continuación, se muestra un ejemplo de una tabla diligenciada con los resultados obtenidos:
 
     .row.justify-content-center 
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-            h5 Tabla 2
+            h5 Tabla 2.
             span #[i Resultado de frecuencia]
         .tabla-a.mb-5 
           table
@@ -194,17 +194,17 @@
                 th Frecuencia
             tbody
               tr
-                td Cuarto de tanque de gas
-                td 5
-                td Servicio de abastecimiento gas propano
-                td Fugas del tanque
-                td 5
+                td Cuarto de tanque de gas.
+                td 5.
+                td Servicio de abastecimiento gas propano.
+                td Fugas del tanque.
+                td 5.
               tr
                 td Cuarto de tanque de gas.
-                td 4
-                td Servicio de abastecimiento gas propano
-                td Accidente por explosión
-                td 5
+                td 4.
+                td Servicio de abastecimiento gas propano.
+                td Accidente por explosión.
+                td 5.
     
     p(data-aos="fade-left") La determinación de la tolerabilidad o aceptabilidad del riesgo es un paso crucial en la gestión de riesgos ambientales. Esto implica evaluar si los riesgos identificados están dentro de los límites considerados aceptables por la organización y la sociedad en general. Esta evaluación considera una amplia gama de factores, como los aspectos económicos, políticos, financieros, culturales y sociales, además de los aspectos técnicos y ambientales. Una vez que se ha establecido la tolerabilidad del riesgo, se pueden tomar decisiones informadas sobre las acciones de corrección o prevención que deben implementarse. Estas acciones pueden variar desde medidas de control más estrictas hasta cambios en los procesos y políticas de la organización. La gestión de riesgos ambientales busca encontrar un equilibrio entre la protección del medio ambiente y la viabilidad de las operaciones, teniendo en cuenta el impacto en la salud pública y la sostenibilidad a largo plazo.
     
@@ -242,7 +242,7 @@
     .row.justify-content-center.align-items-center 
       .col-lg-5.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 5
+          h5 Figura 5.
           span #[i Fórmula de riesgo ambiental]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -255,7 +255,7 @@
     .row.justify-content-center 
       .col-lg-8.col-12
         .titulo-sexto.color-acento-contenido
-            h5 Tabla 3
+            h5 Tabla 3.
             span #[i Valoración del riesgo ambiental adaptada de UNE 150008 (2008)]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/15.svg' alt='En la tabla 3 se muestran los valores establecidos para cada riesgo y su métrica en colores.')
@@ -265,7 +265,7 @@
     .row.justify-content-center 
       .col-lg-8.col-12
         .titulo-sexto.color-acento-contenido
-            h5 Tabla 4
+            h5 Tabla 4.
             span #[i Valoración del riesgo ambiental adaptada de UNE 150008 (2008)]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/16.svg' alt='En la tabla 4 se muestra la matriz de riesgo teniendo en cuenta la gravedad en las columnas y la probabilidad en las filas.')

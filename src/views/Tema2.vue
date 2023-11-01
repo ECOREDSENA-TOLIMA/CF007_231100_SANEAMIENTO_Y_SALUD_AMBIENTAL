@@ -86,7 +86,7 @@
     .row.justify-content-center.mt-5
       .col-8.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6
+          h5 Figura 6.
           span #[i Tipos de riesgos]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -95,7 +95,7 @@
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6
+          h5 Figura 6.
           span #[i Tipos de riesgos]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -120,7 +120,7 @@
     .row.justify-content-center.mt-5
       .col-8.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 7
+          h5 Figura 7.
           span #[i Diagrama bioseguridad para el Covid-19]
         .row.justify-content-center 
           figure(data-aos="fade-right")
@@ -129,7 +129,7 @@
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 7
+          h5 Figura 7.
           span #[i Diagrama bioseguridad para el Covid-19]
         .row.justify-content-center 
           figure(data-aos="fade-right")

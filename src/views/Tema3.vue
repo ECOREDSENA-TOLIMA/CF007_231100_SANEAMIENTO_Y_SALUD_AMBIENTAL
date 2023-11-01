@@ -7,7 +7,7 @@
         span 3
       h1 Informe de valoración de riesgos
     .row.justify-content-center.align-items-center 
-      .col-lg-3.col-md-6.col-12.mb-3
+      .col-lg-3.col-md-6.col-8.mb-3
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema3/1.svg')
       .col-lg-9.col-md-12.col-12.mb-3
@@ -66,7 +66,7 @@
     .row 
       .col-12
         TabsA.color-acento-botones.mb-5
-          .tarjeta.color-acento-botones--borde.p-4(titulo="MATRIZ CAUSA-EFECTO LEOPOLD")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Matriz causa-efecto leopold")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-12
                 h4 
@@ -76,7 +76,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema3/7.svg')
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="MÉTODO T. FINE")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Método t. Fine")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-12
                 p Es una herramienta que permite calcular el grado de peligrosidad asociado a cada riesgo identificado. Utiliza una fórmula matemática que considera tanto la probabilidad de ocurrencia como las consecuencias que podrían derivarse en caso de que el evento se materialice. Se evalúan criterios como el Grado de Peligrosidad (GP), la calificación del riesgo y las medidas de actuación. 
@@ -84,7 +84,7 @@
               .col-lg-3.col-md-4.col-6
                 figure
                   img(src='@/assets/curso/temas/tema3/8.svg') 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="MÉTODO GUSTAV PURT")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Método gustav purt")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-12
                 p Se enfoca en la evaluación de riesgos relacionados con incendios y la determinación de medidas de protección contra incendios efectivas. Su objetivo principal es minimizar la probabilidad de que ocurra un incendio y, en caso de que ocurra, prevenir su rápida y descontrolada propagación. Para ello, se realiza un cálculo del riesgo del edificio (GR) y se consideran factores como la estructura del edificio, sistemas de detección y extinción de incendios, y otros elementos relevantes. 
@@ -92,7 +92,7 @@
               .col-lg-3.col-md-4.col-6
                 figure
                   img(src='@/assets/curso/temas/tema3/9.svg')
-          .tarjeta.color-acento-botones--borde.p-4(titulo="ÁRBOL DE FALLOS")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Árbol de fallos")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-12
                 p Es una técnica deductiva de análisis que se inicia con la selección de un "suceso no deseado o evento no previsto" como punto de partida. Este evento puede ser desde un accidente grave hasta un acontecimiento de menor envergadura. El propósito de este método es identificar las causas subyacentes de estos eventos no deseados, tanto en situaciones de alto impacto como en aquellas de menor importancia. A través del árbol de fallos, se busca analizar y visualizar de manera detallada cómo se llega a esos sucesos no deseados y cuáles son los factores que contribuyen a que ocurran. 
