@@ -142,7 +142,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar pdf',
-        download: 'downloads/CFA.zip',
+        download: 'downloads/CFA_07_231100.zip',
       },
       {
         icono: 'fas fa-download',
@@ -357,12 +357,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Gilberto Naranjo Farfán',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Javier Mauricio Oviedo',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
