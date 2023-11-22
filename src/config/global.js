@@ -159,7 +159,7 @@ export default {
   complementario: [
     {
       tema: 'Controles de bioseguridad',
-      referencia: 'Ministerio del trabajo, Resolución 11/17, 2017, ',
+      referencia: 'Ministerio del trabajo, Resolución 11/17, 2017.',
       tipo: 'PDF',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/647970/Resoluci%C3%B3n+1111-+est%C3%A1ndares+minimos-marzo+27.pdf',

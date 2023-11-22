@@ -82,7 +82,7 @@
               h5 Figura 3.
               span #[em Fórmula del riesgo para estimar consecuencias]
             figure
-              img(src='@/assets/curso/temas/tema1/8.svg')
+              img(src='@/assets/curso/temas/tema1/8.svg' alt='En la figura 3 se muestra la fórmula de riesgos que es igual a la probabilidad dividida por la frecuencia por la gravedad de las consecuencias.')
     
     p.mb-5(data-aos="fade-left") La fórmula se utiliza para estimar el riesgo en función de la probabilidad, la frecuencia y la gravedad de las consecuencias. Esta fórmula es una herramienta común en la evaluación de riesgos ambientales y se utiliza para cuantificar la magnitud del riesgo asociado a un escenario o evento específico.
 
@@ -195,16 +195,16 @@
             tbody
               tr
                 td Cuarto de tanque de gas.
-                td 5.
+                td 1
                 td Servicio de abastecimiento gas propano.
                 td Fugas del tanque.
-                td 5.
+                td 5
               tr
                 td Cuarto de tanque de gas.
-                td 4.
+                td 2
                 td Servicio de abastecimiento gas propano.
                 td Accidente por explosión.
-                td 5.
+                td 4
     
     p(data-aos="fade-left") La determinación de la tolerabilidad o aceptabilidad del riesgo es un paso crucial en la gestión de riesgos ambientales. Esto implica evaluar si los riesgos identificados están dentro de los límites considerados aceptables por la organización y la sociedad en general. Esta evaluación considera una amplia gama de factores, como los aspectos económicos, políticos, financieros, culturales y sociales, además de los aspectos técnicos y ambientales. Una vez que se ha establecido la tolerabilidad del riesgo, se pueden tomar decisiones informadas sobre las acciones de corrección o prevención que deben implementarse. Estas acciones pueden variar desde medidas de control más estrictas hasta cambios en los procesos y políticas de la organización. La gestión de riesgos ambientales busca encontrar un equilibrio entre la protección del medio ambiente y la viabilidad de las operaciones, teniendo en cuenta el impacto en la salud pública y la sostenibilidad a largo plazo.
     
@@ -266,7 +266,7 @@
       .col-lg-8.col-12
         .titulo-sexto.color-acento-contenido
             h5 Tabla 4.
-            span #[i Valoración del riesgo ambiental adaptada de UNE 150008 (2008)]
+            span #[i Valoración de riesgos adaptada de UNE 150008 (2008)]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/16.svg' alt='En la tabla 4 se muestra la matriz de riesgo teniendo en cuenta la gravedad en las columnas y la probabilidad en las filas.')
 

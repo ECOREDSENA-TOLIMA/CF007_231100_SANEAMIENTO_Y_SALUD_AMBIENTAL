@@ -66,7 +66,7 @@
     .row 
       .col-12
         TabsA.color-acento-botones.mb-5
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Matriz causa-efecto leopold")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Matriz causa-efecto Leopold")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-12
                 h4 
@@ -84,7 +84,7 @@
               .col-lg-3.col-md-4.col-6
                 figure
                   img(src='@/assets/curso/temas/tema3/8.svg') 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Método gustav purt")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Método Gustav Purt")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-12
                 p Se enfoca en la evaluación de riesgos relacionados con incendios y la determinación de medidas de protección contra incendios efectivas. Su objetivo principal es minimizar la probabilidad de que ocurra un incendio y, en caso de que ocurra, prevenir su rápida y descontrolada propagación. Para ello, se realiza un cálculo del riesgo del edificio (GR) y se consideran factores como la estructura del edificio, sistemas de detección y extinción de incendios, y otros elementos relevantes. 

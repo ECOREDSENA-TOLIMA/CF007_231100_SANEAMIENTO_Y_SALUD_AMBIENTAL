@@ -201,15 +201,14 @@
 
           .tarjeta.color-acento-botones.p-3(x="26.7%" y="79%" numero="")
             .h5.mb-2 Todo el cuerpo
-            li Calzado de protección.
-            li Calzado y cubre calzado de protección contra el calor.
-            li Calzado y cubre calzado de protección contra el frío.
-            li Calzado frente a la electricidad.
-            li Calzado de protección contra las motosierras.
-            li Protectores amovibles del empeine.
-            li Polainas.
-            li Suelas amovibles (antitérmicas, anti perforación o anti transpiración).
-            li Rodilleras.
+            li Equipos de protección contra las caídas de altura.
+            li Dispositivos anticaídas deslizantes.
+            li Arneses.
+            li Cinturones de sujeción.
+            li Dispositivos anti caídos con amortiguador.
+            li Ropa de protección contra las agresiones mecánicas.
+            li Ropa de protección contra las agresiones químicas.
+            li Ropa de protección contra las proyecciones de metales en fusión y las radiaciones infrarrojas.
 
           .tarjeta.color-acento-botones.p-3(x="72.1%" y="78.6%" numero="")
             .h5.mb-2 Pies y piernas
@@ -259,7 +258,7 @@ export default {
       {
         titulo: 'Protección respiratoria',
         texto:
-          'Es un Equipos de Protección Individual (EPI) esencial, utilizado para salvaguardar el sistema respiratorio de los trabajadores en entornos con riesgos para la salud, debido a la inhalación de contaminantes como partículas sólidas, gases, vapores, humos o agentes biológicos. Los dispositivos incluyen mascarillas, respiradores, filtros y sistemas de suministro de aire, y la elección adecuada depende del tipo y nivel de riesgo. Los trabajadores deben seguir las normativas y las recomendaciones del fabricante para garantizar la eficacia de estos dispositivos y prevenir enfermedades respiratorias.',
+          'Es un Equipo de Protección Individual (EPI) esencial, utilizado para salvaguardar el sistema respiratorio de los trabajadores en entornos con riesgos para la salud, debido a la inhalación de contaminantes como partículas sólidas, gases, vapores, humos o agentes biológicos. Los dispositivos incluyen mascarillas, respiradores, filtros y sistemas de suministro de aire, y la elección adecuada depende del tipo y nivel de riesgo. Los trabajadores deben seguir las normativas y las recomendaciones del fabricante para garantizar la eficacia de estos dispositivos y prevenir enfermedades respiratorias.',
         imagen: require('@/assets/curso/temas/tema2/13.jpg'),
       },
       {
